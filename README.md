@@ -7,7 +7,7 @@
 
 My name is **Ethan Wang**, and I'm a first year Computer Science student at the University of Waterloo. I am currently working on several projects using front end technologies. In the future, I hope to learn more about back end technologies, especially Flask and Django. My interests include math, programming, badminton, watching anime (I'm a Demon Slayer simp), spending time with friends, and meeting new people.
 
-<img align= "right" width= "240" src= "https://www.icegif.com/wp-content/uploads/2022/01/icegif-936.gif"/>
+<img align= "right" width= "240" src= "https://media3.giphy.com/media/dyjrpqaUVqCELGuQVr/giphy.gif"/>
 
 
 - I’m currently using <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
