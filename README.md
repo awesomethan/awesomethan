@@ -16,8 +16,6 @@ My name is **Ethan Wang**, and I'm a first year Computer Science student at the 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 
-- 💬 Ask me about programming in general, I am always <br> available to help and learn together.
-
 - 📫 How to reach me: 
    - <a><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png"> [Discord](https://discord.com/): Leandra#1163 </a>
 
