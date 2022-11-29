@@ -1,11 +1,11 @@
-## Hello World!
+## Hello!
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ethan-wang-3a5506217/)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/baldndumbethan/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ethanwang1203@gmail.com)
 
 
-My name is **Ethan Wang**, and I'm a first year Computer Science student at the University of Waterloo.
+My name is **Ethan Wang**, and I'm a first year Computer Science student at the University of Waterloo. I am currently working on several projects using front end technologies, including HTML, CSS, Javascript, and React. In the future, I hope to learn more about back end technologies, especially Flask and Django. My interests include math, programming, badminton, watching anime, spending time with friends, and meeting new people.
 
 <img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
