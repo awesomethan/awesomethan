@@ -5,7 +5,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ethanwang1203@gmail.com)
 
 
-My name is **Ethan Wang**, and I'm a first year Computer Science student at the University of Waterloo. I am currently working on several projects using front end technologies. In the future, I hope to learn more about back end technologies, especially Flask and Django. My interests include math, programming, badminton, watching anime (I'm a Demon Slayer simp), spending time with friends, and meeting new people.
+My name is **Ethan Wang**, and I'm a first year Computer Science student at the University of Waterloo. I am currently working on several projects using front end technologies. I used to do some competitive programming on DMOJ (you can find my account [here](https://dmoj.ca/user/Awesomethan)), though I stopped a while ago. In the future, I hope to learn more about back end technologies and game development. My interests include math, programming, badminton, watching anime (I'm a Demon Slayer simp), spending time with friends, and meeting new people.
 
 <img align= "right" width= "240" src= "https://www.icegif.com/wp-content/uploads/2022/01/icegif-936.gif"/>
 
