@@ -5,7 +5,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ethanwang1203@gmail.com)
 
 
-Welcome to my Github! My name is **Ethan Wang**, and I'm a first year Computer Science student at the University of Waterloo. I am currently working on several projects using front end technologies. I used to do some competitive programming on DMOJ (you can find my account [here](https://dmoj.ca/user/Awesomethan)), though I stopped a while ago. In the future, I hope to learn more about back end technologies and game development. My interests include math, programming, badminton, watching anime (I'm a Demon Slayer simp). I also enjoy spending time with friends by playing League of Legends together and meeting new people. Feel free to check out my projects in the 'Repositories' section!
+Welcome to my Github! My name is **Ethan Wang**, and I'm a first year Computer Science student at the University of Waterloo. I am currently working on several projects using front end technologies. I used to do some competitive programming on DMOJ (you can find my account [here](https://dmoj.ca/user/Awesomethan)), though I stopped a while ago. In the future, I hope to learn more about back end technologies and game development. My interests include math, programming, badminton, and anime (I'm a Demon Slayer simp). I also enjoy spending time with friends by playing League of Legends together and meeting new people. Feel free to check out my projects in the 'Repositories' section!
 
 <img align= "right" width= "240" src= "https://www.icegif.com/wp-content/uploads/2022/01/icegif-936.gif"/>
 
