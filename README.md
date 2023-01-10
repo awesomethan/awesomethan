@@ -3,7 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ethan-wang-3a5506217/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ethanwang1203@gmail.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/baldndumbethan/)
-[![Spotify](https://img.shields.io/badge/-Spotify-white?style=flat&logo=Spotify&logoColor=green)](https://open.spotify.com/user/awesomethan1026?si=2a3b5aae60584ae0)
+[![Spotify](https://img.shields.io/badge/-Spotify-green?style=flat&logo=Spotify&logoColor=white)](https://open.spotify.com/user/awesomethan1026?si=2a3b5aae60584ae0)
 
 Welcome to my Github! My name is **Ethan Wang**, and I'm a first year Computer Science student at the University of Waterloo. I am currently working on several projects using front end technologies. I used to do some competitive programming on DMOJ (you can find my account [here](https://dmoj.ca/user/Awesomethan)), though I stopped a while ago. In the future, I hope to learn more about back end technologies and game development. My interests include math, programming, badminton, and anime (I'm a Demon Slayer simp). I also enjoy spending time with friends by playing League of Legends together and meeting new people. Feel free to check out my projects in the 'Repositories' section!
 
