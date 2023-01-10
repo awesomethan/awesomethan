@@ -1,7 +1,7 @@
 ## Hello!
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ethan-wang-3a5506217/)
-[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:ethanwang1203@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-ea4335?style=flat&logo=Gmail&logoColor=white)](mailto:ethanwang1203@gmail.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/baldndumbethan/)
 [![Spotify](https://img.shields.io/badge/-Spotify-1dd05d?style=flat&logo=Spotify&logoColor=white)](https://open.spotify.com/user/awesomethan1026?si=2a3b5aae60584ae0)
 
