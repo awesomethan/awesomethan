@@ -5,13 +5,14 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-fd01c1?style=flat&labelColor=fd01c1&logo=instagram&logoColor=white)](https://www.instagram.com/baldndumbethan/)
 [![Spotify](https://img.shields.io/badge/-Spotify-1dd05d?style=flat&logo=Spotify&logoColor=white)](https://open.spotify.com/user/awesomethan1026?si=2a3b5aae60584ae0)
 
-Welcome to my GitHub account! My name is **Ethan Wang**, and I'm a second year Computer Science student at the University of Waterloo. I am currently working on several projects using front end technologies. I used to do some competitive programming on DMOJ (you can find my account [here](https://dmoj.ca/user/Awesomethan)), though I stopped a while ago. In the future, I hope to learn more about back end technologies and game development. My interests include math🔢, programming🧑‍💻, badminton🏸, and anime📺 (I'm a Demon Slayer simp). I also enjoy spending time with friends by playing League of Legends together and meeting new people. Feel free to check out my projects in the 'Repositories' section!
+Welcome to my GitHub account! My name is **Ethan Wang**, and I'm a second year Computer Science student at the University of Waterloo. I used to do some competitive programming on DMOJ (you can find my account [here](https://dmoj.ca/user/Awesomethan)), though I stopped a while ago. My interests include math🔢, programming🧑‍💻, badminton🏸, and anime📺 (I'm a Demon Slayer simp). Feel free to check out my projects in the 'Repositories' section!
 
 <img align= "right" width= "240" src= "https://www.icegif.com/wp-content/uploads/2022/01/icegif-936.gif"/>
 
 
 - My toolkit: <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
