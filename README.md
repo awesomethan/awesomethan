@@ -5,7 +5,7 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-fd01c1?style=flat&labelColor=fd01c1&logo=instagram&logoColor=white)](https://www.instagram.com/baldndumbethan/)
 [![Spotify](https://img.shields.io/badge/-Spotify-1dd05d?style=flat&logo=Spotify&logoColor=white)](https://open.spotify.com/user/awesomethan1026?si=2a3b5aae60584ae0)
 
-Welcome to my GitHub account! My name is **Ethan Wang**, and I'm a second year Computer Science student at the University of Waterloo. I used to do some competitive programming on DMOJ (you can find my account [here](https://dmoj.ca/user/Awesomethan)), though I stopped a while ago. My interests include math🔢, programming🧑‍💻, badminton🏸, and anime📺 (I'm a Demon Slayer simp). Feel free to check out my projects in the 'Repositories' section! Any feedback is appreciated :D
+Welcome to my GitHub account! My name is **Ethan Wang**, and I'm a 3rd year Computer Science student at the University of Waterloo. I used to do some competitive programming on DMOJ (you can find my account [here](https://dmoj.ca/user/Awesomethan)), though I stopped a while ago. My interests include math🔢, programming🧑‍💻, badminton🏸, and anime📺 (I'm a Demon Slayer simp). Feel free to check out my projects in the 'Repositories' section! Any feedback is appreciated :D
 
 <img align= "right" width= "240" src= "https://www.icegif.com/wp-content/uploads/2022/01/icegif-936.gif"/>
 
